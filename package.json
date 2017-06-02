@@ -1,0 +1,23 @@
+{
+  "name": "test-imput-interface",
+  "version": "0.1.0",
+  "description": "a dashboard to input data of test procedures on SIPAC",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaropfn/SipacTestInterface.git"
+  },
+  "author": "alvaropfn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaropfn/SipacTestInterface/issues"
+  },
+  "homepage": "https://github.com/alvaropfn/SipacTestInterface#readme",
+  "dependencies": {
+    "node-red-contrib-sqldbs": "^1.1.8",
+    "node-red-dashboard": "^2.3.11"
+  }
+}
